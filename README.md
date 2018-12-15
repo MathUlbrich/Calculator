@@ -1,7 +1,7 @@
 # Calculator
 Basic calculator in java using no if statements.
 
-# Usage
+## Usage
 Write the two numbers used in operation.
 
 **Example:**
@@ -19,7 +19,7 @@ Type the operation:
 SUM
 ```
 
-# Avaliable Operators
+## Avaliable Operators
 
 * **SUM:** Sum of values.
 * **SUB:** Subtraction of first value by second.
