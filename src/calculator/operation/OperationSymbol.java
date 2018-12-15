@@ -4,10 +4,10 @@ public enum OperationSymbol {
 	
 	SUM(new SumOperation()), 
 	SUB(new SubtractionOperation()), 
-	MULTI(new MultiplicationOperation()), 
+	MUL(new MultiplicationOperation()), 
 	DIV(new DivisionOperation()),
 	POW(new PowOperation()),
-	SQRT(new SquareOperation());
+	ROT(new RootOperation());
 	
 	private Operation operation;
 	

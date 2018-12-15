@@ -1,6 +1,6 @@
 package calculator.operation;
 
-public class SquareOperation implements Operation {
+public class RootOperation implements Operation {
 
 	@Override
 	public Double operate(Double num1, Double num2) {
