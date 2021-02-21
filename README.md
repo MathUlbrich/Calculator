@@ -1,5 +1,5 @@
-# Calculator
-Basic calculator in java using no if statements.
+# Scalable Calculator
+Basic scalable calculator in java using no 'if' and 'switch' statements.
 
 ## Usage
 Write the two numbers used in operation.
